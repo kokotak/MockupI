@@ -31,7 +31,7 @@ fun main() {
             }
             println(hasilDadu)
         }
+        print(" Hasil Akhir kamu adalah = $hasilAkhir")
     }
-    print(" Hasil Akhir kamu adalah = $hasilAkhir")
-    
+
 }
